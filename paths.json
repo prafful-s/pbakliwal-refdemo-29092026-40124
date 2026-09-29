@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/pbakliwal/csc-ikea/language-masters/en:/",
+    "/content/pbakliwal/csc-ikea/language-masters/en/:/en/",
+    "/content/pbakliwal/csc-ikea/language-masters/fr/:/fr/",
+    "/content/pbakliwal/csc-ikea/language-masters/fr:/fr",
+    "/content/pbakliwal/csc-ikea/language-masters/es/:/es/",
+    "/content/pbakliwal/csc-ikea/language-masters/es:/es",
+    "/content/pbakliwal/csc-ikea/language-masters/ja/:/ja/",
+    "/content/pbakliwal/csc-ikea/language-masters/ja:/ja",
+    "/content/pbakliwal/csc-ikea/language-masters/de/:/de/",
+    "/content/pbakliwal/csc-ikea/language-masters/de:/de",
+    "/content/pbakliwal/csc-ikea/configuration:/.helix/config.json",
+    "/content/pbakliwal/csc-ikea/metadata:/metadata.json",
+    "/content/pbakliwal/csc-ikea/redirects:/redirects.json",
+    "/content/pbakliwal/csc-ikea/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/pbakliwal/csc-ikea/",
+    "/content/dam/pbakliwal/csc-ikea/"
   ]
 }
